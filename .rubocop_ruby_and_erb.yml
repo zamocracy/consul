@@ -29,6 +29,9 @@ Layout/SpaceAfterSemicolon:
 Layout/SpaceAroundBlockParameters:
   Enabled: true
 
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: true
+
 Layout/SpaceAroundOperators:
   Enabled: true
 
